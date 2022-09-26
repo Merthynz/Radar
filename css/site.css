@@ -65,6 +65,11 @@ main>.container {
     color: var(--secondary);
 }
 
+.col_right {
+    display: flex;
+    align-items: center;
+}
+
 code[class*="language-"],
     pre[class*="language-"] {
     white-space: pre-wrap;
